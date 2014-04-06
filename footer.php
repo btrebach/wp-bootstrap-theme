@@ -1,7 +1,7 @@
-<hr>
+     <hr>
 
       <footer>
-        <p>&copy; Ben Trebach 2014</p>
+        <p>© Ben Trebach 2014</p>
       </footer>
 
     </div> <!-- /container -->
