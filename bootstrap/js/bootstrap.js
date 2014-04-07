@@ -1,3 +1,12 @@
+$(document).ready(function(){
+  $('.slider1').bxSlider({
+    slideWidth: 200,
+    minSlides: 2,
+    maxSlides: 3,
+    slideMargin: 10
+  });
+});
+
 /* ===================================================
  * bootstrap-transition.js v2.1.1
  * http://twitter.github.com/bootstrap/javascript.html#transitions
